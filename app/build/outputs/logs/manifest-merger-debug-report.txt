@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Kamal\.android\build-cache\47baf9da7c235a33c5602db07a7bf00f04a2e59e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Kamal\.android\build-cache\65e7f4df476062c33023e1c85286bbe08209f209\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Kamal\.android\build-cache\769003a2329f44059cd68cb38f93ae9ede116aca\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Kamal\.android\build-cache\31ce2dd5d4c03bf877d52c1e45ed4b2e5c957b11\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Kamal\.android\build-cache\f8c7fa6bbcb3e51493a02796870050471d2516e1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Kamal\.android\build-cache\1b03dca5961163694c894202ddd7dc39cc8ed16b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Kamal\.android\build-cache\d9ebe5f9810bada9074100a964add2be54ae3778\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Kamal\.android\build-cache\ab664933ce38dbd3082687d5cd8577f3aa78516b\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Kamal\.android\build-cache\cf73be59487df2f5d3a0410963a203ecc82d05cb\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Kamal\.android\build-cache\47baf9da7c235a33c5602db07a7bf00f04a2e59e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:12:5-86
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:12:22-83
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:19:5-37:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Kamal\.android\build-cache\47baf9da7c235a33c5602db07a7bf00f04a2e59e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Kamal\.android\build-cache\65e7f4df476062c33023e1c85286bbe08209f209\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Kamal\.android\build-cache\769003a2329f44059cd68cb38f93ae9ede116aca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Kamal\.android\build-cache\31ce2dd5d4c03bf877d52c1e45ed4b2e5c957b11\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Kamal\.android\build-cache\f8c7fa6bbcb3e51493a02796870050471d2516e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Kamal\.android\build-cache\1b03dca5961163694c894202ddd7dc39cc8ed16b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Kamal\.android\build-cache\d9ebe5f9810bada9074100a964add2be54ae3778\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Kamal\.android\build-cache\ab664933ce38dbd3082687d5cd8577f3aa78516b\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Kamal\.android\build-cache\cf73be59487df2f5d3a0410963a203ecc82d05cb\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:24:9-50
+activity#com.example.kamal.minor.WiFiDirectActivity
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:27:13-49
+	android:configChanges
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:25:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.kamal.minor.MessageActivity
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:34:19-50
+activity#com.example.kamal.minor.FileBrowserActivity
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:35:19-54
+activity#com.example.kamal.minor.FileShareActivity
+ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:36:9-64
+	android:name
+		ADDED from F:\AndroidStudioProjects\Minor\app\src\main\AndroidManifest.xml:36:19-52
